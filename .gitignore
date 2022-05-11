@@ -1,3 +1,2 @@
-test/
-system.db
-#old.*
+*.DS_Store
+Thumbs.db
